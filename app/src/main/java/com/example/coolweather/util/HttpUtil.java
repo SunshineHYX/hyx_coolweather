@@ -4,10 +4,6 @@ import okhttp3.OkHttpClient;
 import okhttp3.Request;
 
 /**
- * Created by Administrator on 2018/8/8.
- */
-
-/**
  * 与服务器进行交互
  * 服务器返回的省市区的数据为Json格式
  */
